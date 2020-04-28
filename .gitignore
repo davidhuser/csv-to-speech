@@ -1,3 +1,10 @@
+.venv/
+.idea/
+*.csv
+output/*.wav
+output/*.mp3
+preprocess*/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
